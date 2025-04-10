@@ -230,6 +230,7 @@ Combined Insights: In cases where multiple query outputs contained overlapping d
 Calculated Columns: 
 Created new columns in Power BI to complement the SQL query outputs, such as: 
 Categorized data for easier visual grouping (e.g., YearsSinceLastPromotionCategory and ManagerTenureCategory).
+
 DAX Measures: 
 Built additional measures using imported data to support dynamic visualizations: 
 AttritionRateDynamic: Calculates attrition rates for different filter contexts.
@@ -247,7 +248,9 @@ Focuses on employee income and financial metrics, showcasing trends and comparis
 Highlights insights related to: 
 Average monthly income by departments and job roles.
 Overtime and its impact on income distribution.
- 
+
+![Dashboard1](https://github.com/user-attachments/assets/291b478a-17e2-4c2e-af8b-ae6983cce634)
+
 HR Analysis:
 Centers on employee attrition and human resources metrics to explore key trends affecting employee retention and satisfaction.
 Highlights insights related to: 
@@ -255,6 +258,7 @@ Attrition rates by departments, job satisfaction, and tenure.
 Managerial impact on retention patterns.
 Overall workforce demographic breakdown.
  
+![Dashboard2](https://github.com/user-attachments/assets/14a5b90e-82e5-42c8-a999-7fe74f95d3fc)
 
 The two-page structure provides a comprehensive view of financial and HR data, offering actionable insights such as:
 Identifying departments or roles with salary disparities.
