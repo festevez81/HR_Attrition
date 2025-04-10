@@ -12,6 +12,7 @@ In today’s competitive business landscape, understanding the factors that driv
 The primary aim of this project is to uncover actionable insights regarding attrition trends and root causes. By combining SQL data analysis and Power BI visualizations, the project provides a comprehensive approach to identifying and addressing key drivers of employee turnover.
 ## Data Set 
 This project is centered around a fictional dataset created by IBM Data Scientists and hosted on Kaggle. The dataset offers a rich foundation for analytical exploration, encompassing key variables such as employee demographics, job roles, compensation, tenure, and other critical factors that influence attrition
+
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 
